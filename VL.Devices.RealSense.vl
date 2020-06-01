@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Document xmlns:p="property" Id="B3rGtyZDXvLOgYGrDxnNa6" LanguageVersion="2020.1.2.109" Version="0.128">
-  <NugetDependency Id="DOfXRi7MKyxNeGRyD8tI9g" Location="VL.CoreLib" Version="2020.1.2-0109-gdc2a2201c2" />
+<Document xmlns:p="property" Id="B3rGtyZDXvLOgYGrDxnNa6" LanguageVersion="2020.1.1.104" Version="0.128">
+  <NugetDependency Id="DOfXRi7MKyxNeGRyD8tI9g" Location="VL.CoreLib" Version="2020.1.1-0104-g2bd3f089a2" />
   <Patch Id="QC65oeU7EANNM5KfSEYMcT">
     <Canvas Id="D1nHjsj3mzlNOpT1n6i9K7" DefaultCategory="Devices.RealSense" CanvasType="FullCategory">
       <Canvas Id="IoCc0ICIZtZM01JqAumDzg" Name="Internal" Position="96,142">
@@ -11116,7 +11116,7 @@
   <PlatformDependency Id="GgZ04bRydoKLCEJ0EJoZ9U" Location="System" />
   <PlatformDependency Id="MEi00LwOVkJQJln6BsocKF" Location="System.Runtime" />
   <PlatformDependency Id="St20cYQsuDvMrEwLnbYFXM" Location="System.Runtime.InteropServices" />
-  <NugetDependency Id="MBwkEfA6Y4FNTTjLfxAsYw" Location="VL.Core" Version="2020.1.2-0109-gdc2a2201c2" />
+  <NugetDependency Id="MBwkEfA6Y4FNTTjLfxAsYw" Location="VL.Core" Version="2020.1.1-0104-g2bd3f089a2" />
   <PlatformDependency Id="CP2SRXNk7y3M1h6x3HA9bf" Location="../../vvvv-private/vvvv50/VVVV.Gamma/src/bin/Debug/net472/System.Reactive.dll" />
   <PlatformDependency Id="D4Vj6IfleIZOCATx6fd6iF" Location="./lib/net461/VL.Devices.RealSense.dll" />
   <PlatformDependency Id="OjarwE48LezNbmTLvA3HOK" Location="./lib/net461/Intel.Realsense.dll" />
